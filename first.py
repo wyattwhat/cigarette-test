@@ -1,7 +1,7 @@
 import random
 import sys
 import os
-age = 70
+age = input('what be yo age')
 if age > 18 :
     print('ciggie 4 yo')
 elif age >= 69 :
